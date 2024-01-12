@@ -1,7 +1,6 @@
 package ArabRomCallc.ArabRomCallc;
 
-public class Roman1 {
-    static class Roman {
+public class Roman {
         public static final String[] romanArray = new String[]{"0", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
                 "XI", "XII", "XIII", "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX",
                 "XXI", "XXII", "XXIII", "XXIV", "XXV", "XXVI", "XXVII", "XXVIII", "XXIX", "XXX",
@@ -23,4 +22,4 @@ public class Roman1 {
         }
 
     }
-}
+
