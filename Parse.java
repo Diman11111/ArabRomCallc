@@ -24,7 +24,7 @@ public class Parse {
             throw new Exception("Цифры должны быть одного типа, арабские либо римские");
         }
         if (num1>10 || num2>10 )
-            throw new Exception("Цыфры должны быть в пределах от 1 до 10 или от I до X");
+            throw new Exception("Цифры должны быть в пределах от 1 до 10 или от I до X");
 
         int result = Calc.calc(num1, num2, oper);
 
